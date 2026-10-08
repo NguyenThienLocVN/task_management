@@ -24,3 +24,27 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.admin-sidebar {
+  background-color: #0e3060;
+  color: #ffffff;
+}
+
+.admin-menu-link {
+  color: #ffffff;
+}
+
+.admin-menu-link:hover {
+  background-color: rgb(255 255 255 / 10%);
+  color: #ffffff;
+}
+
+.admin-menu-link-active {
+  background-color: #ffffff;
+  color: #0e3060;
+}
+
+.admin-menu-link-active:hover {
+  background-color: #eff6ff;
+  color: #0e3060;
+}
