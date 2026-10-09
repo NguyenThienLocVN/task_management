@@ -1,5 +1,10 @@
 import AdminLayout from "@/components/layout/AdminLayout";
 import DepartmentManagement from "@/components/layout/phong-ban/DepartmentManagement";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Quản lý phòng ban",
+};
 
 export default function DepartmentsPage() {
   return (
