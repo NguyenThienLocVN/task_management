@@ -80,13 +80,6 @@ export default function LoginForm() {
           >
             Mật khẩu
           </label>
-
-          <Link
-            href="/forgot-password"
-            className="text-sm font-medium text-blue-700 hover:text-blue-800 hover:underline"
-          >
-            Quên mật khẩu?
-          </Link>
         </div>
 
         <div className="relative">
@@ -161,7 +154,7 @@ export default function LoginForm() {
       <p className="text-center text-sm text-slate-600">
         Chưa có tài khoản?{" "}
         <Link
-          href="/register"
+          href="/dang-ky"
           className="font-semibold text-blue-700 hover:text-blue-800 hover:underline"
         >
           Đăng ký tài khoản

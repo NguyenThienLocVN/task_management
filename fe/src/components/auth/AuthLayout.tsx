@@ -140,7 +140,7 @@ function Feature({
 
       <div>
         <p className="font-semibold text-white">{title}</p>
-        <p className="mt-1 text-sm leading-6 text-blue-100">{description}</p>
+        <p className="text-sm leading-6 text-blue-100">{description}</p>
       </div>
     </div>
   );

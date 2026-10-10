@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { Activity, ArrowRight, ArrowUpRight, CalendarDays, Check, CheckCircle2, Clock3, FileText, MoreHorizontal, Plus, Target, TrendingUp, UsersRound, AlertTriangle
+import { Activity, ArrowRight, CalendarDays, Check, CheckCircle2, Clock3, FileText, MoreHorizontal, Plus, Target, TrendingUp, UsersRound, AlertTriangle
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import AdminLayout from "@/components/layout/AdminLayout";

@@ -248,7 +248,7 @@ export default function RegisterForm() {
       <p className="text-center text-sm text-slate-600">
         Đã có tài khoản?{" "}
         <Link
-          href="/login"
+          href="/dang-nhap"
           className="font-semibold text-blue-700 hover:text-blue-800 hover:underline"
         >
           Đăng nhập
